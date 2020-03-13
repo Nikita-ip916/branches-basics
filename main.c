@@ -2,6 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 int main() {
-  int n;
+  int n, m;
   return (0);
 }
